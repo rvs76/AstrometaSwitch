@@ -1,0 +1,18 @@
+L:\WindowsFormsApplication2\AstrometaSwitch\obj\Debug\AstrometaSwitch.csprojResolveAssemblyReference.cache
+L:\WindowsFormsApplication2\AstrometaSwitch\obj\Debug\AstrometaForm.Properties.Resources.resources
+L:\WindowsFormsApplication2\AstrometaSwitch\obj\Debug\AstrometaSwitch.csproj.GenerateResource.Cache
+L:\WindowsFormsApplication2\AstrometaSwitch\bin\Debug\AstrometaSwitch.exe
+L:\WindowsFormsApplication2\AstrometaSwitch\bin\Debug\AstrometaSwitch.pdb
+L:\WindowsFormsApplication2\AstrometaSwitch\obj\Debug\AstrometaForm.Astrometa.resources
+L:\WindowsFormsApplication2\AstrometaSwitch\obj\Debug\AstrometaSwitch.exe
+L:\WindowsFormsApplication2\AstrometaSwitch\obj\Debug\AstrometaSwitch.pdb
+F:\Telechargement Fifox\AstrometaSwitch\AstrometaSwitch\bin\Debug\AstrometaSwitch.exe.config
+F:\Telechargement Fifox\AstrometaSwitch\AstrometaSwitch\bin\Debug\AstrometaSwitch.exe
+F:\Telechargement Fifox\AstrometaSwitch\AstrometaSwitch\bin\Debug\AstrometaSwitch.pdb
+F:\Telechargement Fifox\AstrometaSwitch\AstrometaSwitch\obj\Debug\AstrometaSwitch.csprojResolveAssemblyReference.cache
+F:\Telechargement Fifox\AstrometaSwitch\AstrometaSwitch\obj\Debug\AstrometaForm.Astrometa.resources
+F:\Telechargement Fifox\AstrometaSwitch\AstrometaSwitch\obj\Debug\AstrometaForm.Properties.Resources.resources
+F:\Telechargement Fifox\AstrometaSwitch\AstrometaSwitch\obj\Debug\AstrometaSwitch.csproj.GenerateResource.Cache
+F:\Telechargement Fifox\AstrometaSwitch\AstrometaSwitch\obj\Debug\AstrometaSwitch.csproj.CoreCompileInputs.cache
+F:\Telechargement Fifox\AstrometaSwitch\AstrometaSwitch\obj\Debug\AstrometaSwitch.exe
+F:\Telechargement Fifox\AstrometaSwitch\AstrometaSwitch\obj\Debug\AstrometaSwitch.pdb

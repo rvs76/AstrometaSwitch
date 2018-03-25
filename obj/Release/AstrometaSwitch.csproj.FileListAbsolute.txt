@@ -1,0 +1,12 @@
+L:\WindowsFormsApplication2\AstrometaSwitch\bin\Release\AstrometaSwitch.exe
+L:\WindowsFormsApplication2\AstrometaSwitch\obj\Release\AstrometaForm.Astrometa.resources
+L:\WindowsFormsApplication2\AstrometaSwitch\obj\Release\AstrometaForm.Properties.Resources.resources
+L:\WindowsFormsApplication2\AstrometaSwitch\obj\Release\AstrometaSwitch.csproj.GenerateResource.Cache
+L:\WindowsFormsApplication2\AstrometaSwitch\obj\Release\AstrometaSwitch.exe
+F:\Telechargement Fifox\AstrometaSwitch\AstrometaSwitch\bin\Release\AstrometaSwitch.exe.config
+F:\Telechargement Fifox\AstrometaSwitch\AstrometaSwitch\bin\Release\AstrometaSwitch.exe
+F:\Telechargement Fifox\AstrometaSwitch\AstrometaSwitch\obj\Release\AstrometaForm.Astrometa.resources
+F:\Telechargement Fifox\AstrometaSwitch\AstrometaSwitch\obj\Release\AstrometaForm.Properties.Resources.resources
+F:\Telechargement Fifox\AstrometaSwitch\AstrometaSwitch\obj\Release\AstrometaSwitch.csproj.GenerateResource.cache
+F:\Telechargement Fifox\AstrometaSwitch\AstrometaSwitch\obj\Release\AstrometaSwitch.csproj.CoreCompileInputs.cache
+F:\Telechargement Fifox\AstrometaSwitch\AstrometaSwitch\obj\Release\AstrometaSwitch.exe

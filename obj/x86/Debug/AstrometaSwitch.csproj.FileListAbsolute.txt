@@ -1,0 +1,10 @@
+F:\Telechargement Fifox\AstrometaSwitch\AstrometaSwitch\bin\x86\Debug\AstrometaSwitch.exe.config
+F:\Telechargement Fifox\AstrometaSwitch\AstrometaSwitch\bin\x86\Debug\AstrometaSwitch.exe
+F:\Telechargement Fifox\AstrometaSwitch\AstrometaSwitch\bin\x86\Debug\AstrometaSwitch.pdb
+F:\Telechargement Fifox\AstrometaSwitch\AstrometaSwitch\obj\x86\Debug\AstrometaSwitch.csprojResolveAssemblyReference.cache
+F:\Telechargement Fifox\AstrometaSwitch\AstrometaSwitch\obj\x86\Debug\AstrometaForm.Astrometa.resources
+F:\Telechargement Fifox\AstrometaSwitch\AstrometaSwitch\obj\x86\Debug\AstrometaForm.Properties.Resources.resources
+F:\Telechargement Fifox\AstrometaSwitch\AstrometaSwitch\obj\x86\Debug\AstrometaSwitch.csproj.GenerateResource.Cache
+F:\Telechargement Fifox\AstrometaSwitch\AstrometaSwitch\obj\x86\Debug\AstrometaSwitch.csproj.CoreCompileInputs.cache
+F:\Telechargement Fifox\AstrometaSwitch\AstrometaSwitch\obj\x86\Debug\AstrometaSwitch.exe
+F:\Telechargement Fifox\AstrometaSwitch\AstrometaSwitch\obj\x86\Debug\AstrometaSwitch.pdb
